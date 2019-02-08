@@ -4363,10 +4363,11 @@ input[type="button"].btn-block {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   padding: 1.25rem;
+  color: black;
 }
 
 .card-title {
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.205rem;
 }
 
 .card-subtitle {
