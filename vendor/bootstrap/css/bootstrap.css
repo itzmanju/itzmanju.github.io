@@ -8901,6 +8901,10 @@ a.text-dark:hover, a.text-dark:focus {
   visibility: hidden !important;
 }
 
+.dfly_logo{
+  width: 222;
+  height: 42;
+}
 @media print {
   *,
   *::before,
