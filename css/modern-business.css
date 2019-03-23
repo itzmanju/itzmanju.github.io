@@ -6,13 +6,17 @@
 
 body {
   padding-top: 54px;
+  background-color: #272727;
+  color: #7f8e9c;
+
 }
 
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
-     background-color: black;
-     color: white;
+     background-color: #272727;
+     /*color: #6c757d ;*/
+     color: #7f8e9c;
   }
 }
 
