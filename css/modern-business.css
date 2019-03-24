@@ -33,3 +33,11 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.text-dfly {
+  color: #7f8e9c !important;
+}
+
+a.text-dfly:hover, a.text-dfly:focus {
+  color: #ceb3b1 !important;
+}
